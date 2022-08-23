@@ -9,8 +9,6 @@
     "lint:fix": "yarn solhint 'contracts/**/*.sol' --fix",
     "format": "yarn prettier --write .",
     "coverage": "yarn hardhat coverage"
-  
- 
   },
   "license": "MIT",
   "devDependencies": {
